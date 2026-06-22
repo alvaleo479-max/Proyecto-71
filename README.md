@@ -18,3 +18,4 @@ Este proyecto consiste en una aplicación web interactiva desarrollada con Strea
 3. Explora los gráficos interactivos (zoom, pan, descarga)
 
 ## 📁 Estructura del proyecto
+https://proyecto-71.onrender.com
